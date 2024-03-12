@@ -1,11 +1,11 @@
-GURU99 Banking Website Manual Testing
-Overview
+## GURU99 Banking Website Manual Testing ##
+### Overview ###
 This repository contains the manual testing documentation for the GURU99 Banking Website. The manual testing was conducted to validate various functionalities as outlined in the Software Requirements Specification (SRS). The testing covers a wide range of scenarios including account management, transactions, security features, and more.
 
-Test Scenarios
+### Test Scenarios ###
 The following test scenarios were executed along with the number of test cases for each:
 
-Test Scenario Description
+### Test Scenario Description ###
 1. Validate the working of Register Account functionality	
 2. Validate the working of login functionality	
 3. Validate the working of logout functionality	
